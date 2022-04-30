@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\HomeWork2\BasketballGame\BasketballGame\bin\Debug\net5.0\BasketballGame.exe
+C:\Users\admin\source\repos\HomeWork2\BasketballGame\BasketballGame\bin\Debug\net5.0\BasketballGame.deps.json
+C:\Users\admin\source\repos\HomeWork2\BasketballGame\BasketballGame\bin\Debug\net5.0\BasketballGame.runtimeconfig.json
+C:\Users\admin\source\repos\HomeWork2\BasketballGame\BasketballGame\bin\Debug\net5.0\BasketballGame.runtimeconfig.dev.json
+C:\Users\admin\source\repos\HomeWork2\BasketballGame\BasketballGame\bin\Debug\net5.0\BasketballGame.dll
+C:\Users\admin\source\repos\HomeWork2\BasketballGame\BasketballGame\bin\Debug\net5.0\ref\BasketballGame.dll
+C:\Users\admin\source\repos\HomeWork2\BasketballGame\BasketballGame\bin\Debug\net5.0\BasketballGame.pdb
+C:\Users\admin\source\repos\HomeWork2\BasketballGame\BasketballGame\obj\Debug\net5.0\BasketballGame.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\HomeWork2\BasketballGame\BasketballGame\obj\Debug\net5.0\BasketballGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\HomeWork2\BasketballGame\BasketballGame\obj\Debug\net5.0\BasketballGame.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\HomeWork2\BasketballGame\BasketballGame\obj\Debug\net5.0\BasketballGame.AssemblyInfo.cs
+C:\Users\admin\source\repos\HomeWork2\BasketballGame\BasketballGame\obj\Debug\net5.0\BasketballGame.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\HomeWork2\BasketballGame\BasketballGame\obj\Debug\net5.0\BasketballGame.dll
+C:\Users\admin\source\repos\HomeWork2\BasketballGame\BasketballGame\obj\Debug\net5.0\ref\BasketballGame.dll
+C:\Users\admin\source\repos\HomeWork2\BasketballGame\BasketballGame\obj\Debug\net5.0\BasketballGame.pdb
+C:\Users\admin\source\repos\HomeWork2\BasketballGame\BasketballGame\obj\Debug\net5.0\BasketballGame.genruntimeconfig.cache
