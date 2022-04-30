@@ -38,7 +38,7 @@ namespace BasketballGame
                         else
                         {
                             Console.WriteLine(correctRule.Respond);
-                            return -100;
+                            return 0;
                         }
                     }
                     else if(opsItem == "D")
@@ -53,7 +53,7 @@ namespace BasketballGame
                         else
                         {
                             Console.WriteLine(correctRule.Respond);
-                            return -100;
+                            return 0;
                         }
                     }
                     else
@@ -68,7 +68,7 @@ namespace BasketballGame
                         else
                         {
                             Console.WriteLine(correctRule.Respond);
-                            return -100;
+                            return 0;
                         }
                     }
 
